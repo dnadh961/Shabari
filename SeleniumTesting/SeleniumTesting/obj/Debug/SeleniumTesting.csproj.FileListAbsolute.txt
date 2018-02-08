@@ -1,0 +1,17 @@
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.pdb
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.Support.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.xml
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.Support.xml
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csprojResolveAssemblyReference.cache
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csproj.CoreCompileInputs.cache
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.dll
+C:\Users\vempc\source\repos\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.pdb
